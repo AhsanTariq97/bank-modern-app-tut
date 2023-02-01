@@ -2,13 +2,13 @@
 
 A modern and user-friendly web-based bank app built with React and TailwindCSS, focusing on design and user experience. This project was created following an online tutorial and showcases the use of these technologies in creating a visually appealing and interactive bank app.
 
-# Features
+## Features
 
     Dynamic display of bank account information.
     Clean and intuitive user interface designed with TailwindCSS.
     Interactive elements for a more engaging user experience.
 
-# Getting started
+## Getting started
 
 To get started with the project, follow these steps:
 
@@ -18,13 +18,9 @@ To get started with the project, follow these steps:
     Start the development server: npm start or yarn start
     Open a web browser and visit http://localhost:3000 to view the bank app.
 
-Technologies used
+## Technologies used
 
     React
     TailwindCSS
     HTML
     CSS
-
-Contributing
-
-If you'd like to contribute to the project, please feel free to open a pull request. All contributions are welcome!
